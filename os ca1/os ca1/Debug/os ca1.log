@@ -1,0 +1,8 @@
+﻿  Simulate.cpp
+c:\users\sarah\documents\visual studio 2015\projects\os ca1\os ca1\simulate.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\os ca1\os ca1\simulate.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\os ca1\os ca1\simulate.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\os ca1\os ca1\simulate.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarah\documents\visual studio 2015\projects\os ca1\os ca1\simulate.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  os ca1.vcxproj -> C:\Users\Sarah\documents\visual studio 2015\Projects\os ca1\Debug\os ca1.exe
+  os ca1.vcxproj -> C:\Users\Sarah\documents\visual studio 2015\Projects\os ca1\Debug\os ca1.pdb (Partial PDB)
