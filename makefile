@@ -1,2 +1,2 @@
-MakeFile: simulate.cpp job.h job.cpp
-	g++ -o simulate.o job.o -I.
+MakeFile: Simulate.cpp Job.h Job.cpp
+	g++ -o  Simulate.o Job.o -I.
